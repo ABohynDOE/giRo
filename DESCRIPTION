@@ -2,7 +2,7 @@ Package: giRo
 Type: Package
 Title: Information about the Giro d'Italia
 Version: 0.1.0
-Authors@R: person("Alexandre", "Bohyn", email = "alexandre.bohyn@gmail.com", role = c("aut","cre"))
+Authors@R: person("Alexandre", "Bohyn", email = "alexandre.bohyn@gmail.com", role = c("aut","cre"), comment = c(ORCID = "0000-0001-9776-7467"))
 Description: Detailed information about each editions of the Giro d'Italia (a cycling race) between 1909 and 2021.
 License: MIT + file LICENSE
 Encoding: UTF-8

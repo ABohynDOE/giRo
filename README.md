@@ -1,5 +1,6 @@
+# pkgdown <img src="man/figures/resized_logo.png" align="right" />
 
-[![Build Status](https://travis-ci.org/ABohynDOE/tdf.svg?branch=master)](https://travis-ci.org/ABohynDOE/tdf)
+[![Build Status](https://travis-ci.org/ABohynDOE/giRo.svg?branch=master)](https://travis-ci.org/ABohynDOE/tdf)
 
 # `giRo`
 

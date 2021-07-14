@@ -7,8 +7,9 @@ Description: Detailed information about each editions of the Giro d'Italia (a cy
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
+Depends: R (>= 3.1.0)
 Imports: 
     rvest
-Depends:
-    tidyverse
 RoxygenNote: 7.1.1
+URL: https://github.com/ABohynDOE/giRo
+BugReports: https://github.com/ABohynDOE/giRo/issues

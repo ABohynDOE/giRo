@@ -1,10 +1,11 @@
 # pkgdown <img src="man/figures/resized_logo.png" align="right" />
 
-[![Build Status](https://travis-ci.org/ABohynDOE/giRo.svg?branch=master)](https://travis-ci.org/ABohynDOE/tdf)
+[![Build Status](https://www.travis-ci.com/ABohynDOE/giRo.svg?branch=master)](https://www.travis-ci.com/ABohynDOE/giRo)
 
 # `giRo`
 
-This package is inspired by the [`tdf` package](https://github.com/alastairrushworth/tdf) of [Alastair Rushworth](https://twitter.com/rushworth_a). 
+This package contains information about winners and stage results of all the editions of the [Giro d'Italia](https://www.giroditalia.it/). 
+The structure of the package is inspired by the [`tdf` package](https://github.com/alastairrushworth/tdf) of [Alastair Rushworth](https://twitter.com/rushworth_a).
 
 ## Installation
 

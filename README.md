@@ -1,7 +1,3 @@
-# pkgdown <img src="man/figures/resized_logo.png" align="right" />
-
-[![Build Status](https://www.travis-ci.com/ABohynDOE/giRo.svg?branch=master)](https://www.travis-ci.com/ABohynDOE/giRo)
-
 # `giRo`
 
 This package contains information about winners and stage results of all the editions of the [Giro d'Italia](https://www.giroditalia.it/). 

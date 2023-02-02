@@ -12,18 +12,6 @@ retrieve_gc <- function(year) {
     year
   ) %>%
     read_html()
-  # Extract global info
-  global_info <- pcs %>%
-    html_elements(css = "ul.infolist") %>%
-    html_elements("div") %>%
-    html_text2() %>%
-    str_remove(':') %>%
-    unlist() %>%
-    matrix(ncol = 2,byrow = TRUE) %>%
-    as_tibble() %>%
-    filter(V1 == "Avg. speed winner" | V1 == "Departure" | V1 == "Arrival") %>%
-    tibble::column_to_rownames("V1") %>%
-    t()
   # Extract GC table
   tables <- pcs %>%
     html_elements(css = "table.results.basic.moblist10")
